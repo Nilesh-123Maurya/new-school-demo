@@ -1,4 +1,4 @@
 # new-school-demo
 This is my first Git Repository
 <br>
-Author - Nilesh Maurya
+Author - Nilesh (Apna college)
